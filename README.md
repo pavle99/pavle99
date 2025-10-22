@@ -7,7 +7,6 @@ Full Stack Developer
 As a full-stack web developer, I specialize in building web applications that are responsive, scalable, and optimized for maximum performance. My expertise in creating secure and user-friendly designs ensures that users have a seamless experience on any device. I pride myself on my attention to detail and my commitment to building websites that not only look great but also deliver exceptional results.
 
 * 🌍  I'm based in Pančevo, Serbia
-* 🖥️  See my portfolio at [https://pavle-cvejovic.vercel.app/](https://pavle-cvejovic.vercel.app/)
 * ✉️  You can contact me at [pavle.cvejovic9999@gmail.com](mailto:pavle.cvejovic9999@gmail.com)
 * 🧠  I'm learning Kubernetes
 
